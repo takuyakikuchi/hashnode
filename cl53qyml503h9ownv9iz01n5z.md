@@ -1,5 +1,7 @@
 ## The difference between CSR, SSR and SSG
 
+[Click here for the Japanese article](https://zenn.dev/takuyakikuchi/articles/2f7e54bdafce52)
+
 # Difference between CSR, SSR, and SSG
 ## CSR
 Client-side rendering.<br />
@@ -44,8 +46,6 @@ Better performance than SSR because HTML is generated at build time.
 If yes, use SSG.<br />
 If no, use SSR or CSR.<br />
 Next.js can set SSG or SSR for each page.
-
-[Click here for the Japanese article](https://zenn.dev/takuyakikuchi/articles/2f7e54bdafce52)
 
 # References
 - [Pre-rendering - Pre-rendering and Data Fetching | Learn Next.js](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
