@@ -1,6 +1,6 @@
 ## Problems with data fetching Effect, and Cleanup
 
-日本語の記事はこちら：[useEffect()を使ったデータ取得で起こる問題とクリーンアップ](https://zenn.dev/takuyakikuchi/articles/a96b8d97a0450c)
+Click here to read the article in Japanese：https://zenn.dev/takuyakikuchi/articles/a96b8d97a0450c
 
 I was reading the Official React Docs [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect), which presents examples where `useEffect()` is not required. <br/>
 I wrote this article because I needed to wrap my head around the "fetching data" part where I learned a lot.
