@@ -93,4 +93,4 @@ In this article, we learned about cleanup in `useEffect()` and why it is importa
 
 It is considered good practice to extract the side effects of data fetch to a custom hook. 
 The original article, which introduces that and many other situations where `useEffect()` should not be used, is very interesting and I encourage you to read it.
-[You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect) Translated with www.DeepL.com/Translator (free version)
+[You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect)
