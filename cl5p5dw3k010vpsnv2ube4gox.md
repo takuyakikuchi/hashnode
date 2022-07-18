@@ -59,7 +59,7 @@ The following is a list of typical advantages of CSS in JS.
 - **Encapsulation**
 - **Maintainability**
 
-When using global CSS, it is difficult to know where the CSS definition is affected when it is changed, so it is necessary to address this in the CSS design, such as CSS cascading and naming conventions.<br/>
+When using global CSS, it is difficult to know where the CSS definition is affected when it is changed, so it is necessary to address this in the CSS design, such as CSS selector hierarchy and naming conventions.<br/>
 CSS in JS eliminates the need for detailed CSS design because the impact is confined to components.
 
 - **Dynamic styling**
