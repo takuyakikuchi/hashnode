@@ -185,5 +185,5 @@ I am sure that both new features by Concurrent React and Concurrent support for 
 
 ## Reference
 
-[React 18に備えるにはどうすればいいの？　5分で理解する - Qiita](https://qiita.com/uhyo/items/bbc22022fe846fd2b763)
-[React v18.0 – React Blog](https://reactjs.org/blog/2022/03/29/react-v18.html#suspense-in-data-frameworks)
+- [React 18に備えるにはどうすればいいの？　5分で理解する - Qiita](https://qiita.com/uhyo/items/bbc22022fe846fd2b763)
+- [React v18.0 – React Blog](https://reactjs.org/blog/2022/03/29/react-v18.html#suspense-in-data-frameworks)
