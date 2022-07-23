@@ -3,7 +3,7 @@
 Click here to read the article in Japanese：
 https://zenn.dev/takuyakikuchi/articles/91ccf7037d6375
 
-## About this Article.
+## About this Article
 > Concurrent React is more important than a typical implementation detail — it’s a foundational update to React’s core rendering model. So while it’s not super important to know how concurrency works, it may be worth knowing what it is at a high level.<br/>
 quoted from [React v18.0 – React Blog](https://reactjs.org/blog/2022/03/29/react-v18.html#suspense-in-data-frameworks)
 
@@ -112,9 +112,10 @@ Quoted from [React v18.0 - React Blog](https://reactjs.org/blog/2022/03/29/react
 
 One of these is the use of Suspense in data fetching.
 
-**Conventional way**
-**※Alert**: The following is a code example using the Apollo Client notation, but the Apollo Client does not support Suspense at this time.
-Github issue about Suspense support: https://github.com/apollographql/apollo-client/issues/9627
+**Conventional way**<br/>
+
+[**※Alert**: The following is a code example using the Apollo Client notation, but the Apollo Client does not support Suspense at this time.<br/>
+Github issue about Suspense support: https://github.com/apollographql/apollo-client/issues/9627]
 ```jsx
 // Dog.jsx
 function Dogs() {
@@ -163,13 +164,13 @@ function App() {
 
 Whereas the previous program was procedural, such as `if (isLoading)`, **the processing of the loading state has been made more declarative**. This simplifies the responsibilities of the component responsible for loading data.
 
-The above is just an idea as a code example, but if you want to start using it in practice, you can start using Suspense for data fetching in React 18 by using frameworks such as Relay, Next.js, Hydrogen, and Remix. (*Not yet recommended as a general strategy in the sense that it is technically possible.)
-In the future, they may provide new basic functionality to easily access data with Suspense without using a framework, so we look forward to future updates.
+The above is just an idea as a code example, but if you want to start using it in practice, you can start using Suspense for data fetching in React 18 by using frameworks such as Relay, Next.js, Hydrogen, and Remix. (*Not yet recommended as a general strategy in the sense that it is technically possible.)<br/>
+In the future, they may provide new basic functionality to easily access data with Suspense without using a framework, so we look forward to future updates.<br/>
 See [Suspense in Data Framework](https://reactjs.org/blog/2022/03/29/react-v18.html#suspense-in-data-frameworks)
 
 ### Other Use Cases
 
-The following are other use cases, which are only referenced links.
+The following are other use cases, which are only referenced links.<br/>
 Server-side components + Suspense is a feature that I am quite personally excited about.
 
 - Server-side rendering capability in streaming
@@ -179,7 +180,7 @@ https://ja.reactjs.org/docs/react-api.html#reactsuspense-during-hydration
 
 ## Summary
 
-Concurrent React is not only a better user experience, but as a developer, I felt that we need to design for the features that will be available with Concurrent React.
+Concurrent React is not only a better user experience, but as a developer, I felt that we need to design for the features that will be available with Concurrent React.<br/>
 I am sure that both new features by Concurrent React and Concurrent support for the React ecosystem will be updated more and more in the future, so keep an eye on Concurrent React in the future.
 
 ## Reference
