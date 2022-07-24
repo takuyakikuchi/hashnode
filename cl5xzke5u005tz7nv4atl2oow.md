@@ -174,9 +174,9 @@ The following are other use cases, which are only referenced links.<br/>
 Server-side components + Suspense is a feature that I am quite personally excited about.
 
 - Server-side rendering capability in streaming
-https://ja.reactjs.org/docs/react-api.html#reactsuspense-in-server-side-rendering
+https://reactjs.org/docs/react-api.html#reactsuspense-in-server-side-rendering
 - Suspense during hydration
-https://ja.reactjs.org/docs/react-api.html#reactsuspense-during-hydration
+https://reactjs.org/docs/react-api.html#reactsuspense-during-hydration
 
 ## Summary
 
