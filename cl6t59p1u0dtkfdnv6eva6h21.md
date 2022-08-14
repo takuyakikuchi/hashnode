@@ -1,5 +1,7 @@
 ## I checked this and that of React basics with `console.log()`
 
+Click here to read the article in Japanese：https://zenn.dev/takuyakikuchi/articles/2c4071a58bd4d7
+
 # `console.log()` to check rendering timings
 
 ⚠️ To simplify the logging results, "Strict Mode" is intentionally disabled so that the lifecycle is never called twice.<br />
