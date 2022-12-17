@@ -5,7 +5,7 @@
 This article is a transcript of the author's LT presentation at the meet-up held on 12/17/2022 to celebrate the 1st anniversary of the official Japanese version of Stack Overflow. <br>
 The content of my presentation was to introduce the good things I felt since I started contributing to Stack Overflow. (I use "contribute" in the sense of asking questions, answering questions, and voting.)
 
-# The good things I've felt since I started contributing to Stack Over Flow.
+# The good things I've felt since I started contributing to Stack Over Flow
 
 ## 1\. Learn by answering 📖
 
